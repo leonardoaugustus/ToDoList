@@ -1,6 +1,6 @@
 # Aplicativo Lista de Tarefas 
 
-> O projeto é um aplicativo mobile desenvolvido em Flutter que permite adicionar, remover e marcar como concluído uma tarefa. O Projeto utiliza componentes como Floating Action Button, Snackbar, Dismissible e Database Local no dispositivo do usuário.
+O projeto é um aplicativo mobile desenvolvido em Flutter que permite adicionar, remover e marcar como concluído uma tarefa. O Projeto utiliza componentes como Floating Action Button, Snackbar, Dismissible e Database Local no dispositivo do usuário.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/62160298/159191208-ee12b1d7-5a09-4712-bc72-e7b0e4c55a22.png" alt="exemplo imagem">
